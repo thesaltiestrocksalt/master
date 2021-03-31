@@ -1,2 +1,2 @@
-# Main
-Main Redirection site
+# Master
+Master Redirection site
