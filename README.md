@@ -1,2 +1,2 @@
-# mbc2030main
+# Main
 Main Redirection site
